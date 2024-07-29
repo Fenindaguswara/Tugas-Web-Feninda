@@ -1,14 +1,14 @@
 body{
-background-color: rgb(204, 245, 245);
+background-color: rgb(227, 250, 250);
 }
 .container-navbar{
-    background-color: rgba(193, 240, 214, 0.87);
+    background-color: rgba(186, 221, 221, 0.87);
 }
 .container-content1{
-    background-color: rgb(197, 236, 236);
+    background-color: rgb(186, 221, 221);
 }
 .container-footer{
-    background-color: rgb(211, 247, 247);
+    background-color: rgb(186, 221, 221);
 }
 .{
     margin: 0px;
